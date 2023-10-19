@@ -171,7 +171,7 @@ date_slider = st.sidebar.slider(
         value=pd.to_datetime( '2022-4-6', yearfirst=False),
     min_value=pd.to_datetime('2022-2-11', yearfirst=False),
     max_value=pd.to_datetime( '2022-4-6',yearfirst=False),
-    format=None)
+    format=None, args=None, kwargs=None)
 
 st.sidebar.markdown( """---""" )
 
