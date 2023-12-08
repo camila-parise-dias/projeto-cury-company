@@ -1,3 +1,1 @@
-# projeto-cury-company
-
-[Link do Dashboard](https://camila-parise-dias-projeto-cury-company.streamlit.app/)
+[Dashboard Cury Company](https://camila-parise-dias-projeto-cury-company.streamlit.app/)
